@@ -1,0 +1,2 @@
+# intro
+學習有關interface在golang裡面實踐的方法

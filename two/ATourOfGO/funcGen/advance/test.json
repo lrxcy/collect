@@ -1,0 +1,20 @@
+{
+    "sourceID": 1,
+    "isProxyIP": false,
+    "ConfArray": [
+        {
+            "crawlerCode": "test_code",
+            "timePerid": "09:00:00-22:20:00",
+            "crawlerType": 1,
+            "Type": 1,
+            "url": "http://testurl1/"
+        },
+        {
+            "crawlerCode": "test_code2",
+            "timePerid": "09:00:00-22:20:00",
+            "crawlerType": 2,
+            "Type": 2,
+            "url": "http://testurl2/"
+        }
+    ]
+}

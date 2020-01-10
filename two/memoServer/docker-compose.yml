@@ -1,0 +1,14 @@
+version: "3"
+
+networks:
+  proxy-net:
+    driver: bridge
+
+services: 
+  backend:
+    networks: 
+      - proxy-net
+    build: 
+      context: .
+    ports: 
+      - 8080:8080
